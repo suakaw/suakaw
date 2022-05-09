@@ -244,7 +244,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    jpg: "-quality 100%"
+    webp: "-quality 100%"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
