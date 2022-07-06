@@ -70,7 +70,7 @@ stackoverflow_id: #your stackoverflow id
 
 rss_icon: false
 
-contact_note: Note- This page is under construction and some information may not be correct.
+#contact_note: Note- This page is under construction and some information may not be correct.
 
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
